@@ -1,0 +1,13 @@
+- vue
+- procesamiento de datos en js (agregar, eliminar o modificar)
+- spread operator
+- reactividad
+- inmutabilidad
+- estado de la aplicacion
+- Comunicación entre componentes
+- estado permmanente
+- frameworks para gestion de estado de la aplicacion
+- vuex / redux (gestor de estado de la aplicacion)
+- consumo de apis
+- ejercicio
+- nuxt (vue framework (core vue, router, vuex, localStorage, http))
